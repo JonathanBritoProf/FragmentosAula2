@@ -1,4 +1,4 @@
-package br.digitalhouse.fragments2
+package br.digitalhouse.estudosfragment
 
 import org.junit.Test
 

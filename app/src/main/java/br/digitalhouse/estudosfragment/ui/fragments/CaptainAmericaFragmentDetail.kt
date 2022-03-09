@@ -1,23 +1,26 @@
-package br.digitalhouse.fragments2
+package br.digitalhouse.estudosfragment.ui.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import br.digitalhouse.estudosfragment.R
 
 
-class Fragment2 : Fragment() {
+class CaptainAmericaFragmentDetail : Fragment() {
+
+
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_2, container, false)
+        return inflater.inflate(R.layout.captain_america_fragment_detail, container, false)
     }
 
     companion object {
-    fun criarFragmento () = Fragment2 ()
+        fun criaFragmento () = CaptainAmericaFragmentDetail()
     }
 }

@@ -3,9 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/EstudosDH/Fragments2/app/src/main/res/layout/activity_main.xml" value="0.14" />
-        <entry key="..\:/EstudosDH/Fragments2/app/src/main/res/layout/fragment1.xml" value="0.20416666666666666" />
-        <entry key="..\:/EstudosDH/Fragments2/app/src/main/res/layout/fragment_2.xml" value="0.1" />
+        <entry key="..\:/EstudosDH/EstudosFragment/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/EstudosDH/EstudosFragment/app/src/main/res/layout/captain_america_fragment_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/EstudosDH/EstudosFragment/app/src/main/res/layout/fragment_blank.xml" value="0.22" />
+        <entry key="..\:/EstudosDH/EstudosFragment/app/src/main/res/layout/fragment_blank2.xml" value="0.25" />
+        <entry key="..\:/EstudosDH/EstudosFragment/app/src/main/res/layout/iron_man_fragment_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/EstudosDH/EstudosFragment/app/src/main/res/layout/iron_man_fragment_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/EstudosDH/EstudosFragment/app/src/main/res/layout/myfragment.xml" value="0.2" />
+        <entry key="..\:/EstudosDH/EstudosFragment/app/src/main/res/layout/thor_fragment_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/EstudosDH/EstudosFragment/app/src/main/res/layout/thor_fragment_item.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
